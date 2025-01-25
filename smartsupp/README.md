@@ -1,4 +1,4 @@
-# SmartSuup
+# Smartsuup plugin for e107
 
 Smartsupp Live Chat integration plugin for e107 v2 Boostrap CMS
 
