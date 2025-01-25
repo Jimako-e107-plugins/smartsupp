@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<e107Plugin name="Smartsupp Live Chat" lan="LAN_SMARTSUPP_NAME" version="1.1.0" date="2018-10-17" compatibility="2.0" installRequired="true" >
-	<author name="Jimako" url="https://www.e107.sk/" />
+<e107Plugin name="Smartsupp Live Chat" lan="LAN_SMARTSUPP_NAME" version="1.1.0" date="2025-01-25" compatibility="2.3" installRequired="true" >
+	<author name="Jimako" url="https://www.e107sk.com/" />
 	<summary lan="LAN_SMARTSUPP_SUMMARY">Smartsupp Live Chat integration plugin</summary>
 	<description lan="LAN_SMARTSUPP_DESCRIPTION">Adds Smartupp Live Chat code to e107 Bootstrap CMS.</description>
 	<keywords>
@@ -9,7 +9,7 @@
 		<word>chat</word>
 	</keywords>
 	<category>tools</category>
-	<copyright>http://www.e107sk.com</copyright>
+	<copyright>https://www.e107sk.com</copyright>
 	<adminLinks>
 		<link url="admin_config.php" description="" icon="img/icon-60x60.jpg" iconSmall="img/icon-20x20.jpg" icon128="img/icon-128x128.jpg" primary="true" >LAN_CONFIGURE</link>
 	</adminLinks>
